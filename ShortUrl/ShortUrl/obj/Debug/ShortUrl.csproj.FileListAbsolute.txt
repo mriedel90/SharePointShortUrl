@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ShortUrl\ShortUrl\bin\Debug\ShortUrl.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ShortUrl\ShortUrl\bin\Debug\ShortUrl.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ShortUrl\ShortUrl\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ShortUrl\ShortUrl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ShortUrl\ShortUrl\obj\Debug\ShortUrl.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ShortUrl\ShortUrl\obj\Debug\ShortUrl.pdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="d829abb4-bb26-46ec-a400-a35bcd195bf5" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="ShortUrl.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="ShortUrl, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2528c5dece4a4029" Namespace="ShortUrl.RedirectWebPart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\ShortUrl\RedirectWebPart\RedirectWebPartUserControl.ascx" />
+    <TemplateFile Location="Layouts\ShortUrl\Edit.aspx" />
+    <TemplateFile Location="Layouts\ShortUrl\Manage.aspx" />
+    <TemplateFile Location="Layouts\ShortUrl\New.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="ShortUrl\Feature.xml" />
+  </FeatureManifests>
+</Solution>

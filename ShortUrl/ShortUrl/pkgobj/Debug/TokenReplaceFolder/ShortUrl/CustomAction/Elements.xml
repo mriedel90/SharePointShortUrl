@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction
+  Id="ShortUrl"
+  GroupId="Customization"
+  Location="Microsoft.SharePoint.SiteSettings"
+  Title="Short Url Management"
+  Rights="ApplyThemeAndBorder"
+  Sequence="1000">
+    <UrlAction Url="/_layouts/ShortUrl/Manage.aspx"/>
+  </CustomAction>
+</Elements>

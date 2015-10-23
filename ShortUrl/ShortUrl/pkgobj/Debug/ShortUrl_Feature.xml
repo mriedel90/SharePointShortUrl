@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Short Url" Description="This feature enables the creation and management of Short Urls within this site" Id="c59e19f1-c0e1-4c16-833b-b7a7afb1df27" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="RedirectWebPart\Elements.xml" />
+    <ElementFile Location="RedirectWebPart\RedirectWebPart.webpart" />
+    <ElementManifest Location="CustomAction\Elements.xml" />
+  </ElementManifests>
+</Feature>
